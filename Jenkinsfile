@@ -16,7 +16,7 @@ pipeline {
                         npm ci
                         npm run build
                         ls -la 
-                        echo 'changes'
+                        echo ' new changes '
                     '''
                 }
             }
